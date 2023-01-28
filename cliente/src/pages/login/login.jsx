@@ -35,7 +35,7 @@ const Login = () => {
     }
 
     const compare = () => {
-        console.log(setUsers);
+        console.log(users);
         console.log('pipi grande');
         
     }
